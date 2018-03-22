@@ -12,8 +12,6 @@ import { AboutComponent } from './about/about.component';
 import { RestaurantsComponent } from './restaurants/restaurants.component';
 import { RestaurantComponent } from './restaurants/restaurant/restaurant.component';
 
-
-
 @NgModule({
   declarations: [
     AppComponent,
